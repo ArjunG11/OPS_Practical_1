@@ -6,5 +6,6 @@ int a=10,b=15,c;
 clrscr();
 c=a+b;
 printf("The sum is:%d",c);
+printf("Thanks");
 getch();
 }
